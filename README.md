@@ -1,4 +1,4 @@
-# Loan Prediction using SVM
+# Loan Prediction Model
 
 ## 📌 Overview
 This project predicts whether a loan application will be approved based on applicant details.  
